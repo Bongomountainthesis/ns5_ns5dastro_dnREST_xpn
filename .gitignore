@@ -5,3 +5,5 @@ data/*
 *.txt
 *.ps
 *~
+*.RData
+*.eps
